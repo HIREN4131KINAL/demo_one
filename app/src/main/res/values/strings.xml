@@ -22,7 +22,7 @@
         <item>@drawable/ic_action_search</item>
     </string-array>
 
-    <string name="title_messages">Messages</string>
-    <string name="title_friends">Friends</string>
+    <string name="title_messages">Apply As Employee</string>
+    <string name="title_friends">Cover City</string>
     <string name="title_home">Home</string>
 </resources>

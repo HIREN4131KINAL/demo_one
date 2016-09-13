@@ -9,14 +9,16 @@
         android:layout_width="match_parent"
         android:layout_height="140dp"
         android:layout_alignParentTop="true"
+        android:elevation="5dp"
         android:background="@color/colorPrimary">
 
         <ImageView
             android:id="@+id/profile"
             android:layout_width="70dp"
             android:layout_height="70dp"
-            android:src="@drawable/ic_profile"
+            android:src="@drawable/laxmi"
             android:scaleType="fitCenter"
+            android:elevation="5dp"
             android:layout_centerInParent="true" />
 
     </RelativeLayout>
