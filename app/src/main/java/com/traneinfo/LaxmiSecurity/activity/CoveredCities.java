@@ -10,9 +10,9 @@ import android.view.ViewGroup;
 import com.traneinfo.LaxmiSecurity.R;
 
 
-public class MessagesFragment extends Fragment {
+public class CoveredCities extends Fragment {
 
-    public MessagesFragment() {
+    public CoveredCities() {
         // Required empty public constructor
     }
 
@@ -25,7 +25,7 @@ public class MessagesFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View rootView = inflater.inflate(R.layout.fragment_messages, container, false);
+        View rootView = inflater.inflate(R.layout.fragment_friends, container, false);
 
 
         // Inflate the layout for this fragment
