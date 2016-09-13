@@ -8,7 +8,6 @@
     <color name="windowBackground">#FFFFFF</color>
     <color name="navigationBarColor">#000000</color>
 
-
     <color name="button_focus">#efac5c</color>
     <color name="button_pressed">#dc7800</color>
     <color name="button_background">#F69828</color>
