@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.hometech.navigationdrawerdemo.activity.FriendsFragment">
+    tools:context="com.traneinfo.LaxmiSecurity.activity.FriendsFragment">
 
 
     <TextView

@@ -1,4 +1,4 @@
-package com.hometech.navigationdrawerdemo.adapter;
+package com.traneinfo.LaxmiSecurity.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.hometech.navigationdrawerdemo.R;
-import com.hometech.navigationdrawerdemo.model.NavDrawerItem;
+import com.traneinfo.LaxmiSecurity.R;
+import com.traneinfo.LaxmiSecurity.model.NavDrawerItem;
 
 import java.util.Collections;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.hometech.navigationdrawerdemo.model;
+package com.traneinfo.LaxmiSecurity.model;
 
 /**
  * Created by Ravi on 29/07/15.

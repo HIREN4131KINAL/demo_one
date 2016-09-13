@@ -1,4 +1,4 @@
-package com.hometech.navigationdrawerdemo.activity;
+package com.traneinfo.LaxmiSecurity.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.hometech.navigationdrawerdemo.R;
+import com.traneinfo.LaxmiSecurity.R;
 
 
 public class MessagesFragment extends Fragment {

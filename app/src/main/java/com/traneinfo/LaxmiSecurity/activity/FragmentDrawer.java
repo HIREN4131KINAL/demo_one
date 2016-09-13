@@ -1,4 +1,4 @@
-package com.hometech.navigationdrawerdemo.activity;
+package com.traneinfo.LaxmiSecurity.activity;
 
 
 import android.content.Context;
@@ -17,9 +17,9 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.hometech.navigationdrawerdemo.R;
-import com.hometech.navigationdrawerdemo.adapter.NavigationDrawerAdapter;
-import com.hometech.navigationdrawerdemo.model.NavDrawerItem;
+import com.traneinfo.LaxmiSecurity.R;
+import com.traneinfo.LaxmiSecurity.adapter.NavigationDrawerAdapter;
+import com.traneinfo.LaxmiSecurity.model.NavDrawerItem;
 
 import java.util.ArrayList;
 import java.util.List;
