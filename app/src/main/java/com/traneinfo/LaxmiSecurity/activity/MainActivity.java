@@ -84,11 +84,11 @@ public class MainActivity extends AppCompatActivity implements FragmentDrawer.Fr
                 break;
             case 1:
                 fragment = new FriendsFragment();
-                title = getString(R.string.title_friends);
+                title = getString(R.string.title_city);
                 break;
             case 2:
                 fragment = new MessagesFragment();
-                title = getString(R.string.title_messages);
+                title = getString(R.string.title_emp);
                 break;
             default:
                 break;
